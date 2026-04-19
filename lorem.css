@@ -1,0 +1,69 @@
+body{background-color: purple;
+color: rgb(0, 255, 229);}
+
+
+
+
+
+header {
+text-align: center;
+padding: 0;
+position: sticky;
+font-weight: 500;
+ box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+ b
+}
+
+
+header .nav-btn a:hover {
+    color: #d3a226;
+}
+
+header .nav-link a:hover {
+    color: #d39b0d;
+}
+
+
+
+ul {list-style: none;
+    padding: 0%;
+    gap: 40px;
+}
+
+.nav-btn {display: inline-block;
+    width: 4.5%;
+    vertical-align: middle;
+}
+
+.logo {
+width: 20%;
+vertical-align: middle;
+
+}
+
+.nav-img img {
+    width: 66px;
+    height: 77px;
+}
+
+body  {
+font-family: "roboto", sans-serif;
+}
+
+.nav-link {
+font-size: 13px;
+text-decoration: none;
+color: black;
+font-weight: 500;
+letter-spacing: 2px;
+}
+
+
+#facil {
+    width: 100%;
+  height: 400px;
+    left: 400px;
+    position: relative;
+    middle: 400px;
+
+} 
